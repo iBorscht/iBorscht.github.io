@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://www.iborscht.github.io/appIcon57.png</string>
+					<string>https://dl.dropboxusercontent.com/s/roi72z6b54x2mtz/appIcon57.png?dl=0</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://www.iborscht.github.io/appIcon512.png</string>
+					<string>https://dl.dropboxusercontent.com/s/b4b9e8b96w54gxi/appIcon512.png?dl=0</string>
 				</dict>
 			</array>
 			<key>metadata</key>
